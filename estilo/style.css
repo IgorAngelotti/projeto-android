@@ -1,4 +1,4 @@
- @charset "UTF-8";
+@charset "UTF-8";
 
 *{
     box-sizing: border-box;
@@ -73,7 +73,7 @@ nav > a{
     text-decoration: none;
     padding: 10px;
     border-radius: 3px;
-    transition-duration: 0.5s;
+    transition-duration: 0.2s;
     display: inline-block;
 }
 
